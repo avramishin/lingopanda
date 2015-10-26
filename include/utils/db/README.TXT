@@ -1,14 +1,1 @@
-------------------------------------------------------------
-This utility generates classes out of DB structure.
-Generated classes are placed under
-
-INCLUDE_ROOT/classes/tables - table definitions
-INCLUDE_ROOT/classes - Entities
-
-Make sure that you've configured DB connection properties in 
-config.local.php file. 
-
-run: php make-db-classes.php
-
-Have fun!
-------------------------------------------------------------
+------------------------------------------------------------This utility generates classes out of DB structure.Generated classes are placed underINCLUDE_ROOT/classes/tables - table definitionsINCLUDE_ROOT/classes - EntitiesMake sure that you've configured DB connection properties in config.local.php file. run: php make-db-classes.phpHave fun!------------------------------------------------------------

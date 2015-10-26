@@ -1,8 +1,1 @@
-<?php 
-
-/**
-* Class to work with table "subscribers"
-*/
-class LingopandaSubscribers extends LingopandaSubscribersTable {
-
-}
+<?php /*** Class to work with table "subscribers"*/class LingopandaSubscribers extends LingopandaSubscribersTable {}
