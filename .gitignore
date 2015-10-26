@@ -1,1 +1,9 @@
-/config.local.php/.idea/tmp
+/config.local.php/.idea/tmp
+/.idea/.name
+/.idea/encodings.xml
+/.idea/lingopanda.iml
+/.idea/modules.xml
+/.idea/scopes/scope_settings.xml
+/.idea/vcs.xml
+/.idea/workspace.xml
+/config.local.php
